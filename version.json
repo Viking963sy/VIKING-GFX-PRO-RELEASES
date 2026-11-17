@@ -1,33 +1,42 @@
 {
-    "version": "8.6.1",
-    "download_url": "https://github.com/Viking963sy/VIKING-GFX-PRO-RELEASES/releases/download/8.6.1/Vikloop.Optimizer.8.6.1.exe",
-    "sha256": "3af2e70fda21d5283b5767bb3e625b98c3168e9f4d41b231571ba2029a6e9381",
-    "size": 36044445,
-    "released": "2026-11-17",
+    "version": "8.6.2",
+    "download_url": "https://github.com/Viking963sy/VIKING-GFX-PRO-RELEASES/releases/download/8.6.2/Vikloop.Optimizer.8.6.2.exe",
+    "sha256": "2467e9e11252faee818c1730128b9ffb712235cf657e3144e9b31eaf20060aa5",
+    "size": 36064161,
+    "released": "2026-11-18",
     "notes": [
         {
-            "icon": "gauge",
+            "icon": "shield",
             "color": "var(--green)",
-            "label": "HDR 90 FPS is back",
-            "label_ar": "عودة HDR إلى 90 FPS",
-            "detail": "The VIP profile now uses the Galaxy S24 Ultra identity, PUBG's best graphics tier",
-            "detail_ar": "ملف VIP صار يستخدم هوية Galaxy S24 Ultra، أعلى مستوى رسوميات في PUBG"
+            "label": "Stronger protection",
+            "label_ar": "حماية أقوى",
+            "detail": "The emulator's ADB is closed to other computers, and updates are digitally signed",
+            "detail_ar": "إغلاق ADB الخاص بالمحاكي أمام الأجهزة الأخرى، وتوقيع التحديثات رقميًا"
         },
         {
-            "icon": "monitor",
-            "color": "var(--gold)",
-            "label": "HDR lobby fixed",
-            "label_ar": "إصلاح لوبي HDR",
-            "detail": "The lobby renders on HDR instead of a black screen",
-            "detail_ar": "اللوبي يظهر بشكل صحيح على HDR بدل الشاشة السوداء"
+            "icon": "move",
+            "color": "var(--pink)",
+            "label": "Clearer fast movement",
+            "label_ar": "حركة سريعة أوضح",
+            "detail": "An on/off switch with a one-click Gameloop restart",
+            "detail_ar": "تشغيل وإيقاف مع إعادة تشغيل Gameloop بنقرة"
         },
         {
-            "icon": "refresh",
+            "icon": "layers",
             "color": "var(--cyan)",
-            "label": "Automatic correction",
-            "label_ar": "تصحيح تلقائي",
-            "detail": "A Gameloop stuck on the old profile is corrected once, while no game is open",
-            "detail_ar": "يُصحَّح Gameloop العالق على الملف القديم مرة واحدة دون أي لعبة مفتوحة"
+            "label": "New Paks manager",
+            "label_ar": "مدير Paks جديد",
+            "detail": "Clear choices with sizes and versions, and a restore that never loses your files",
+            "detail_ar": "خيارات واضحة مع الحجم والإصدار، واستعادة لا تُفقدك ملفاتك"
+        },
+        {
+            "icon": "lock",
+            "color": "var(--violet)",
+            "label": "Protected program files",
+            "label_ar": "حماية ملفات البرنامج",
+            "detail": "Services and the engine run from a folder only administrators can change",
+            "detail_ar": "الخدمات والمحرك تعمل من مجلد لا يعدّله إلا المسؤول"
         }
-    ]
+    ],
+    "sig": "95488760dbf09cdd5190126fa32d3ffa75cd07e5e0be53467b3ad987f8266b39df0e7acafbd51643d8c5e8e5c324b2c141646dae1f7fb57c2873f71b37dc2806"
 }
