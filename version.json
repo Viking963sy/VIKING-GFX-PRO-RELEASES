@@ -1,4 +1,57 @@
 {
-    "version": "8.5",
-    "download_url": "https://github.com/Viking963sy/VIKING-GFX-PRO-RELEASES/releases/download/8.5/Vikloop.Optimizer.8.5.exe"
+    "version": "8.6",
+    "download_url": "https://github.com/Viking963sy/VIKING-GFX-PRO-RELEASES/releases/download/8.6/Vikloop.Optimizer.8.6.exe",
+    "sha256": "201943f7e4d7b9af8fcdd2508ef2c84700e4fa81d511d425efaa39be4fd3bbd9",
+    "size": 36041540,
+    "released": "2026-11-17",
+    "notes": [
+        {
+            "icon": "sparkles",
+            "color": "var(--gold)",
+            "label": "All-new premium interface",
+            "label_ar": "واجهة فاخرة جديدة بالكامل",
+            "detail": "Smoother and faster, fully in Arabic and English",
+            "detail_ar": "أنعم وأسرع، بالعربية والإنجليزية بالكامل"
+        },
+        {
+            "icon": "zap",
+            "color": "var(--cyan)",
+            "label": "Vikloop Frame Generation",
+            "label_ar": "توليد الإطارات من Vikloop",
+            "detail": "Up to double the frames on screen, with its own in-game counter",
+            "detail_ar": "حتى ضعف الإطارات على الشاشة، مع عدّاد خاص داخل اللعبة"
+        },
+        {
+            "icon": "shield",
+            "color": "var(--blue)",
+            "label": "TAC update shield",
+            "label_ar": "درع تحديثات TAC",
+            "detail": "Stops Gameloop's forced TAC updates",
+            "detail_ar": "يمنع تحديثات TAC الإجبارية في Gameloop"
+        },
+        {
+            "icon": "gauge",
+            "color": "var(--green)",
+            "label": "Smoother Gameloop",
+            "label_ar": "Gameloop أكثر سلاسة",
+            "detail": "Safe engine tweaks against stutters, ADB and Root switched on for you",
+            "detail_ar": "تحسينات آمنة للمحرك ضد التقطيع، وتفعيل ADB وRoot تلقائيًا"
+        },
+        {
+            "icon": "hdd",
+            "color": "var(--violet)",
+            "label": "Reliable PUBG backups",
+            "label_ar": "نسخ احتياطي موثوق لـ PUBG",
+            "detail": "Paks backup and restore fixed and checked file by file",
+            "detail_ar": "نسخ واستعادة Paks بعد إصلاحهما، مع تحقق ملفًا بملف"
+        },
+        {
+            "icon": "key",
+            "color": "var(--amber)",
+            "label": "New license keys",
+            "label_ar": "مفاتيح ترخيص جديدة",
+            "detail": "Short keys locked to your PC, your current key keeps working",
+            "detail_ar": "مفاتيح قصيرة مرتبطة بجهازك، ومفتاحك الحالي يبقى صالحًا"
+        }
+    ]
 }
